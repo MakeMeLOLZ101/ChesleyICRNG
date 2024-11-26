@@ -1,7 +1,7 @@
 let previousNames = [];
-const currentNameDisplay = document.getElementById('currentName');
+const classedNames = document.getElementById('classNames');
 const randomBtn = document.getElementById('randomBtn');
-const historyList = document.getElementById('historyList');
+const historyList = document.getElementById('history-List');
 const maxHistory = 5;
 
 function loadNames(){
@@ -10,7 +10,7 @@ function loadNames(){
         .then(data => {
             names = data.names;
             randomBtn.disabled = false;
-            currentNameDisplay.textContent = "Click button to get a name!";
+            classedNames.textContent = "Click button to get a name!";
         })
 }
 
@@ -18,7 +18,7 @@ function generateRandomName(){
     if (names.length === 0) return;
     const randomIndex = Math.floor(Math.random() * names.length);
     const randomName = names[randomIndex];
-    currentNameDisplay.textContent = randomName;
+    classedNames.textContent = randomName;
     previousNames.unshift(randomName);
     if (previousNames.length > maxHistory){
         previousNames.pop();

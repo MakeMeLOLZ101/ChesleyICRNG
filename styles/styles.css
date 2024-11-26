@@ -26,7 +26,7 @@ h1{
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .random-btn{
@@ -42,5 +42,5 @@ h1{
 }
 
 .historyList{
-    font-size: 2rem;
+    font-size: 1.1rem;
 }
