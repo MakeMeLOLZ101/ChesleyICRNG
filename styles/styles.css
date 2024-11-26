@@ -1,0 +1,46 @@
+body{
+    background-color: indigo;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background: white;
+    padding: 2rem;
+    width: 100%;
+    max-width: 600px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.names{
+    margin-bottom: 2rem;
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.random-btn{
+    width: 100%;
+    padding: 1rem;
+    background: green;
+    color: white;
+    font-size: 2rem;
+}
+
+.history{
+    margin-top: 2rem;
+}
+
+.historyList{
+    font-size: 2rem;
+}
