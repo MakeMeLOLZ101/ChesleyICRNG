@@ -2,6 +2,8 @@ let previousNames = [];
 const classedNames = document.getElementById('classNames');
 const randomBtn = document.getElementById('randomBtn');
 const historyList = document.getElementById('history-List');
+const email1Input = document.getElementById('firstemail');
+const email2Input = document.getElementById('secondemail');
 const maxHistory = 5;
 
 function loadNames(){
@@ -16,10 +18,14 @@ function loadNames(){
 
 function generateRandomName(){
     if (names.length === 0) return;
+
     const randomIndex = Math.floor(Math.random() * names.length);
     const randomName = names[randomIndex];
-    classedNames.textContent = randomName;
-    previousNames.unshift(randomName);
+
+    classedNames.textContent = randomName.name;
+    email1Input.textContent = randomName.firstemail;
+    email2Input.textContent = randomName.secondemail;
+    previousNames.unshift(randomName.name);
     if (previousNames.length > maxHistory){
         previousNames.pop();
     }
@@ -32,6 +38,7 @@ function updateHistory(){
     previousNames.forEach(name => {
         const li = document.createElement('li');
         li.textContent = name;
+        
         historyList.appendChild(li);
     });
 }

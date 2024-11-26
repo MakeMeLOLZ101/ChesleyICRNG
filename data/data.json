@@ -1,37 +1,164 @@
 {
    "names": [
-    "Mike Heckerman, mheckerman@codestack.co, mkheck13@gmail.com",
-    "Roy Cade, rcade@codestack.co, roytresIII@gmail.com",
-    "Santiago Montanez, smontanez@codestack.co, santiagomm44@gmail.com",
-    "Chainarung Dechyothin, cdechyothin@codestack.co, cdechyothin@gmail.com",
-    "Mason Quilon, mquilon@codestack.co, Quilonmason@gmail.com",
-    "Darryl Patton, DPatton@codestack.co, DLamarPatton@gmail.com",
-    "Juan Heredia, jheredia@codestack.co, madnes0205@gmail.com",
-    "Brock Spacek, bspacek@codestack.co, brockspacek1@gmail.com",
-    "Kassandra Spacek, kspacek@codestack.co, kassiespacek101@gmail.com",
-    "Ian Chesley, ichesley@codestack.co, ianchesley@yahoo.com",
-    "Alexander Soria, asoria@codestack.co, yoda4115@gmail.com",
-    "Anthony Duran, aduran@codestack.co, anthonyaduran6@gmail.com",
-    "Andrew Sayasing, asayasing@codestack.co, gettosheep56@gmail.com",
-    "Robert Grijalva, rgrijalva@codestack.co, grijrob07@gmail.com",
-    "Nolan Parker, NParker@codestack.co, nolanrparker@gmail.com",
-    "Thao Vang, tvang@codestack.co, vangt39@gmail.com",
-    "Aaron Robinson, arobinson@codestack.co, aarmon5@gmail.com",
-    "David Monterrosa, dmonterrosa@codestack.co, dmonterrosa99@gmail.com",
-    "Karen-anne Cadavos, kcadavos@codestack.co, karencadavos@gmail.com",
-    "Tanush Kumar, tkumar@codestack.co, nush8653@gmail.com",
-    "Bowen Henry, bhenry@codestack.co, bhenry3145@gmail.com",
-    "Alan Batres, abatres@codestack.co, alanbatres328@gmail.com",
-    "Gianpaolo Reinares, greinares@codestack.co, gprcards@gmail.com",
-    "Josue Rosales, jrosales@codestack.co, Josue04Rosales@gmail.com",
-    "Andrie Amor, aamor@codedstack.co, amorandrie5@gmail.com",
-    "Bronel Lazar, blazar@codestack.co, bronellazar@gmail.com",
-    "Angel Cuevas, acuevas@codestack.co, aocuevas123@gmail.com",
-    "Chris Wells-Hott, cwellshott@codestack.co, cwellshott@gmail.com",
-    "Charles Orr, corr@codestack.co, Chas2687@gmail.com",
-    "Isaiah Ferguson, iferguson@codestack.co, iferguson@sjcoe.net",
-    "Kenneth Martinez, kmartinez@codestack.co, kmartinez@sjcoe.net",
-    "Bryan Stewart, bstewart@codestack.co, bstewart@sjcoe.net",
-    "Jacob Dekok"
+    {
+        "name":"Mike Heckerman",
+        "firstemail": "mheckerman@codestack.co",
+        "secondemail": "mkheck13@gmail.com"
+    },  
+    {
+        "name":"Roy Cade",
+        "firstemail": "rcade@codestack.co",
+        "secondemail": "roytresIII@gmail.com"
+    },
+    {
+        "name":"Santiago Montanez",
+        "firstemail": "smontanez@codestack.co",
+        "secondemail": "santiagomm44@gmail.com"
+    },
+    {
+        "name":"Chainarung Dechyothin",
+        "firstemail": "cdechyothin@codestack.co",
+        "secondemail": "cdechyothin@gmail.com"
+    },
+    {
+        "name":"Mason Quilon",
+        "firstemail": "mquilon@codestack.co",
+        "secondemail": "Quilonmason@gmail.com"
+    },
+    {
+        "name":"Darryl Patton",
+        "firstemail": "DPatton@codestack.co",
+        "secondemail": "DLamarPatton@gmail.com"
+    },
+    {
+        "name":"Juan Heredia",
+        "firstemail": "jheredia@codestack.co",
+        "secondemail": "madnes0205@gmail.com"
+    },
+    {
+        "name":"Brock Spacek",
+        "firstemail": "bspacek@codestack.co",
+        "secondemail": "brockspacek1@gmail.com"
+    },
+    {
+        "name":"Kassandra Spacek",
+        "firstemail": "kspacek@codestack.co",
+        "secondemail": "kassiespacek101@gmail.com"
+    },
+    {
+        "name":"Ian Chesley",
+        "firstemail": "ichesley@codestack.co",
+        "secondemail": "ianchesley@yahoo.com"
+    },
+    {
+        "name":"Alexander Soria",
+        "firstemail": "asoria@codestack.co",
+        "secondemail": "yoda4115@gmail.com"
+    },
+    {
+        "name":"Anthony Duran",
+        "firstemail": "aduran@codestack.co",
+        "secondemail": "anthonyaduran6@gmail.com"
+    },
+    {
+        "name":"Andrew Sayasing",
+        "firstemail": "asayasing@codestack.co",
+        "secondemail": "gettosheep56@gmail.com"
+    },
+    {
+        "name":"Robert Grijalva",
+        "firstemail": "rgrijalva@codestack.co",
+        "secondemail": "grijrob07@gmail.com"
+    },
+    {
+        "name":"Nolan Parker",
+        "firstemail": "NParker@codestack.co",
+        "secondemail": "nolanrparker@gmail.com"
+    },
+    {
+        "name":"Thao Vang",
+        "firstemail": "tvang@codestack.co",
+        "secondemail": "vangt39@gmail.com"
+    },
+    {
+        "name":"Aaron Robinson",
+        "firstemail": "arobinson@codestack.co",
+        "secondemail": "aarmon5@gmail.com"
+    },
+    {
+        "name":"David Monterrosa",
+        "firstemail": "dmonterrosa@codestack.co",
+        "secondemail": "dmonterrosa99@gmail.com"
+    },
+    {
+        "name":"Karen-anne Cadavos",
+        "firstemail": "kcadavos@codestack.co",
+        "secondemail": "karencadavos@gmail.com"
+    },
+    {
+        "name":"Tanush Kumar",
+        "firstemail": "tkumar@codestack.co",
+        "secondemail": "nush8653@gmail.com"
+    },
+    {
+        "name":"Bowen Henry",
+        "firstemail": "bhenry@codestack.co",
+        "secondemail": "bhenry3145@gmail.com"
+    },
+    {
+        "name":"Alan Batres",
+        "firstemail": "abatres@codestack.co",
+        "secondemail": "alanbatres328@gmail.com"
+    },
+    {
+        "name":"Gianpaolo Reinares",
+        "firstemail": "greinares@codestack.co",
+        "secondemail": "gprcards@gmail.com"
+    },
+    {
+        "name":"Josue Rosales",
+        "firstemail": "jrosales@codestack.co",
+        "secondemail": "Josue04Rosales@gmail.com"
+    },
+    {
+        "name":"Andrie Amor",
+        "firstemail": "aamor@codedstack.co",
+        "secondemail": "amorandrie5@gmail.com"
+    },
+    {
+        "name":"Bronel Lazar",
+        "firstemail": "blazar@codestack.co",
+        "secondemail": "bronellazar@gmail.com"
+    },
+    {
+        "name":"Angel Cuevas",
+        "firstemail": "acuevas@codestack.co",
+        "secondemail": "aocuevas123@gmail.com"
+    },
+    {
+        "name":"Chris Wells-Hott",
+        "firstemail": "cwellshott@codestack.co",
+        "secondemail": "cwellshott@gmail.com"
+    },
+    {
+        "name":"Charles Orr",
+        "firstemail": "corr@codestack.co",
+        "secondemail": "Chas2687@gmail.com"
+    },
+    {
+        "name":"Isaiah Ferguson",
+        "firstemail": "iferguson@codestack.co",
+        "secondemail": "iferguson@sjcoe.net"
+    },
+    {
+        "name":"Kenneth Martinez",
+        "firstemail": "kmartinez@codestack.co",
+        "secondemail": "kmartinez@sjcoe.net"
+    },
+    {
+        "name":"Bryan Stewart",
+        "firstemail": "bstewart@codestack.co",
+        "secondemail": "bstewart@sjcoe.net"
+    }
    ]
 }
