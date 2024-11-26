@@ -12,5 +12,5 @@ Have your application themed and make sure your list of names is the class plus 
 You also need to have a section that shows the previous 5 names that were pulled from your Random Name Generator.
 Don't forget to have fun!!!
 
-Peer Name:
-Peer Review:
+Peer Name:Chris Wells-Hott
+Peer Review:Your code is very simple and easy to understand that is something that I need to work on. I like how you added list into you app that was what i was thinking about doing in mine. great job.
